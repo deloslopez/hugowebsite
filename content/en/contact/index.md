@@ -8,13 +8,13 @@ menu: main
 
 ---
 
-Follow me on these social media platforms.
+Here are some ways to contact me or view my work.
 
-Platform |URL
+Platform | URL
 --- | ---
-YouTube:|	https://www.youtube.com/c/kenjee1?sub_confirmation=1
-Website:|	https://www.playingnumbers.com, https://kennethjee.com/
-Twitter:|	https://twitter.com/KenJee_DS
-LinkedIn:|	https://www.linkedin.com/in/kenjee/
-Medium:|	https://medium.com/@kenneth.b.jee
-GitHub:|	https://github.com/PlayingNumbers
+
+Website:|	[https://deloslopez.github.io/hugowebsite/](https://deloslopez.github.io/hugowebsite/)
+
+LinkedIn:|	[https://www.linkedin.com/in/dianadeloslopez/](https://www.linkedin.com/in/dianadeloslopez/)
+
+GitHub:|	[https://github.com/deloslopez](https://github.com/deloslopez)
