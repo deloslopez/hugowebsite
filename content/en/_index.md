@@ -7,11 +7,9 @@ theme_version: '2.8.2'
 cascade:
   featured_image: '/images/carlos-muza-hpjSkU2UYSU-unsplash.jpg'
 
-# links to other websites, goes below the dashes
-# [Link Text](URL)
 ---
 
 {{< figure src="/images/Headshot resized.jpg" >}}
 
-Hello, welcome to my professional website. Please feel free to take a look at my resume with projects coming soon.
+Hello, welcome to my professional website. Please feel free to take a look at my [resume]({{< ref "/resume" >}} "Resume") with projects coming soon.
 
